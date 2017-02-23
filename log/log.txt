@@ -1,2 +1,4 @@
-w01-160216-09-PS-About: Finishing the lab task
-w01-160216-13-LR-About: Practice Scripting in class
+w01-170216-09-PS-About: Finishing the lab task
+w01-170216-13-LR-About: Practice Scripting in class
+w02-170223-09-LR-About: Practice Encrypting to finish the lab task
+w02-170223-10-LR-About: Practice using C language
