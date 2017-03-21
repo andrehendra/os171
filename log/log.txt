@@ -4,3 +4,4 @@ w02-170223-09-LR-About: Practice Encrypting to finish the lab task
 w02-170223-10-LR-About: Practice using C language
 w03-170304-07-LR-About: Finish the lab week03 task
 w04-170311-07-LR-About: Finish the lab week04 task
+w05-170314-08-LR-About: Finish the lab week05 task
